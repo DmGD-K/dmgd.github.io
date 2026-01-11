@@ -1,1 +1,1 @@
-# dmgd.github.io
+# dmgd-k.github.io/sidestoreserver/servers.json
